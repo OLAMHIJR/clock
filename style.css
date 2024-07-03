@@ -1,0 +1,106 @@
+
+.first{
+    height: 600px;
+    width: 600px;
+    margin: 20px auto;
+    border: 5px solid gold;
+    border-radius: 100%;
+    background-color: rgb(165, 42, 99);
+    position: relative;
+}
+.all{
+    font-size: 30px;
+}
+.one{
+    position: absolute;
+    right: 140px;
+    top:30px;
+}
+.two{
+    position: absolute;
+    right:65px;
+    top: 150px;
+}
+.three{
+    position: absolute;
+    right: 40px;
+    top:270px ;
+}
+.four{
+    position: absolute;
+    right: 80px;
+    top: 400px;
+}
+.five{
+    position: absolute;
+    right: 180px;
+    top: 480px;
+}
+.six{
+    position: absolute;
+    left:290px;
+    top: 520px;
+}
+.seven{
+    position: absolute;
+    left: 180px;
+    bottom: 30px;
+}
+.eight{
+    position: absolute;
+    left: 100px;
+    bottom: 120px;
+}
+.nine{
+    position: absolute;
+    left: 50px;
+    bottom: 230px;
+}
+.ten{
+    position: absolute;
+    left: 50px;
+    bottom: 360px;
+}
+.eleven{
+    position: absolute;
+    left: 120px;
+    bottom: 460px;
+}
+.twelve{
+    position: absolute;
+    left: 290px;
+    bottom: 520px;
+}
+.hour{
+    border-radius: 20px;
+    width: 100px;
+    border: 1px solid black;
+    position: absolute;
+    top: 320px;
+    right: 300px;
+}
+.minute{
+    border: 10px solid black;
+    position: absolute;
+    top: 310px;
+    right:300px;
+    border-radius: 20px;
+}
+.second{
+    position: absolute;
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 150px;
+    top: 320px;
+    right: 150px;
+}
+.time{
+    position: absolute;
+    border-radius: ;
+    border: 1px solid black;
+    height: 250px;
+    width: 1px;
+    background-color: black;
+    top:320px;
+    right:310px ;
+}
